@@ -1,9 +1,9 @@
 <?php
 
-	$servername = "localhost";
-	$username = "root";
-	$password = "";
-	$dbname = "pandera_bank";
+	$servername = "sql112.epizy.com";
+	$username = "epiz_29115102";
+	$password = "OvmaAiZfLlYj4s";
+	$dbname = "epiz_29115102_pandera_bank";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
