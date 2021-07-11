@@ -1,2 +1,1 @@
-userrname : pandera
-password : 
+Website: http://pandera-banking-system.42web.io/index.php
