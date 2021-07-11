@@ -1,0 +1,58 @@
+* {
+    font-family: "Open Sans";
+    font-weight: normal;
+    box-sizing: circle;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 10pt;
+    line-height: 1;
+  }
+  .slidesh {
+    text-align: left;
+    padding: 10px;
+    font-size: 2em;
+    background-color: #333;
+    border-bottom: 5pt solid #000;
+    color: #fff;
+    font-weight: 300;
+    margin: 0 0 15px;
+  }
+  .slide-container {
+    text-align:left;
+    margin: 15px;
+  }
+  .slide-container .slides {
+    display: inline-block;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .slide-container .slides img {
+    display: block;
+    border-radius: 5px;
+    max-width: 100%;
+  }
+  .slide-container .slides .hidden {
+    display: none;
+  }
+  .slide-container .pager {
+    text-align: center;
+    display: block;
+    padding: 10px;
+  }
+  .slide-container .pager li {
+    margin: 15px 5px;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    transition: all 0.5s linear;
+  }
+  .slide-container .pager li.active {
+    background-color: #000;
+  }
+  
