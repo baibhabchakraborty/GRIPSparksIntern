@@ -10,5 +10,6 @@ A Web Application used to transfer money between multiple users.<br>  </p>
 <p>Created by Baibhab Chakraborty, under internship for Sparks Foundation.
 #GRIPJuly</p>
 
-<p>The link for the wesite is : http://pandera-banking-system.42web.io/index.php <br><br>
+<p>The link for the wesite is : http://pandera-banking-system.42web.io/index.php <br>
+YouTube Link: https://www.youtube.com/watch?v=oWy7lR4H7kE<br><br>
 Please let me know if any changes or bugs in the code! </p>
