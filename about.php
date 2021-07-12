@@ -47,7 +47,7 @@ Time and again our innovative banking services has been recognized and rewarded 
 </p><hr>
 <p>
 <b>News Room</b><br>
-Catch up with Pandera Bank's latest business and social initiatives, as well as innovative product launches.
+Catch up with the Pandera Bank's latest business and social initiatives, as well as innovative product launches.
 </p><hr>
 
  
